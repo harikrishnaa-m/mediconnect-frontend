@@ -34,7 +34,7 @@ function App() {
       </Routes>
 
       <Footer />
-      
+
       {/* Toast Container */}
       <ToastContainer
         position="top-right"
